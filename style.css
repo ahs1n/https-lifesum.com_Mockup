@@ -1,0 +1,17 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    height: 109px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header img
+{
+    color: lawngreen;
+}
