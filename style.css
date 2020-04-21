@@ -7,11 +7,27 @@ header
 {
     height: 109px;
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     justify-content: center;
     align-items: center;
+    border: 1px solid black;
 }
-header img
+.header_left
+{
+    width: 648px;
+    border: 1px solid black;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.header_left img
 {
     color: lawngreen;
+    filter: #41cd8c(100%);
+}
+.header_right
+{
+    border: 1px solid black;
 }
