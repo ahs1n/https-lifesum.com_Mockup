@@ -13,6 +13,7 @@ header
     justify-content: center;
     align-items: center;
     border: 1px solid black;
+    justify-content: space-between;
 }
 .header_left
 {
@@ -24,7 +25,7 @@ header
     align-items: center;
     justify-content: space-around;
 }
-.header_left a
+header a
 {
     color: black;
     text-decoration: none;
@@ -40,4 +41,23 @@ header
 .header_right
 {
     border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.header_right button
+{
+    border-radius: 1.636em;
+    height: 37px;
+    width: 119px;
+    border: #41cd8c 2px solid;
+    background-color: transparent;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 23px;
+}
+.header_right button:hover
+{
+    color: #fff;
+    background-color: #41cd8c;
 }
