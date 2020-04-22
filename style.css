@@ -12,13 +12,14 @@ header
     /* flex-direction: column; */
     justify-content: center;
     align-items: center;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     justify-content: space-between;
+    background-color: #FAFAF5;
 }
 .header_left
 {
     width: 500px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     /* flex-direction: column; */
     justify-content: center;
@@ -37,13 +38,16 @@ header a
 {
     color: lawngreen;
     filter: #41cd8c(100%);
+    padding-left: 25px;
 }
 .header_right
 {
-    border: 1px solid black;
+    /* border: 1px solid black; */
+    display: flex;
     justify-content: center;
     align-items: center;
     justify-content: space-around;
+    width: 300px;
 }
 .header_right button
 {
@@ -55,9 +59,31 @@ header a
     font-size: 17px;
     font-weight: 600;
     line-height: 23px;
+    margin-right: 20px;
 }
 .header_right button:hover
 {
     color: #fff;
     background-color: #41cd8c;
+}
+.main
+{
+    height: 661px;
+    display: flex;
+    background-color: #FAFAF5;
+    clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 78%, 77% 88%, 50% 94%, 19% 89%, 0 78%, 0% 35%, 0 0);
+
+}
+.main_left
+{
+
+}
+.main_right
+{
+    
+}
+.lifesum
+{
+    height: 1142px;
+    display: flex;
 }
