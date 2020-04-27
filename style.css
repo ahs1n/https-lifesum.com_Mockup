@@ -154,3 +154,7 @@ header a
     height: 1142px;
     display: flex;
 }
+.card
+{
+    width: 390px;
+}
