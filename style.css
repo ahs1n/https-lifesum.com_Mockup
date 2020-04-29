@@ -158,3 +158,12 @@ header a
 {
     width: 390px;
 }
+
+/* Take The Quiz */
+.quiz
+{
+    height: 254px;
+    width: 1072px;
+    background-color: #FAFAF5;
+
+}
