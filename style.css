@@ -169,6 +169,11 @@ header a
     width: 390px;
     height: 430px;
     border: black 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 /* Take The Quiz */
