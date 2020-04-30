@@ -152,11 +152,23 @@ header a
 .lifesum
 {
     height: 1142px;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+.lifesum_cards
+{
+    /* height: 1142px; */
     display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-around;
 }
 .card
 {
     width: 390px;
+    height: 430px;
+    border: black 1px solid;
 }
 
 /* Take The Quiz */
