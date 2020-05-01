@@ -177,6 +177,12 @@ header a
 }
 
 /* Take The Quiz */
+.quiz_section
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .quiz
 {
     height: 254px;
