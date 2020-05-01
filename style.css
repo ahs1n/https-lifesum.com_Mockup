@@ -183,6 +183,14 @@ header a
     align-items: center;
     justify-content: center;
 }
+.quiz_section button
+{
+    height: 60px;
+    width: 210px;
+    border: none;
+    border-radius: 1.6rem;
+    background-color: #19BF94;
+}
 .quiz
 {
     height: 254px;
