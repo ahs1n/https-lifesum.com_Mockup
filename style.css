@@ -182,13 +182,20 @@ header a
     display: flex;
     align-items: center;
     justify-content: center;
+    /* display: flex; */
+}
+.quiz_image
+{
+    border: black solid 1px;
+    height: 150px;
+    width: 174px;
 }
 .quiz_section button
 {
     height: 60px;
     width: 210px;
     border: none;
-    border-radius: 1.6rem;
+    border-radius: 1.9rem;
     background-color: #19BF94;
 }
 .quiz
@@ -196,4 +203,5 @@ header a
     height: 254px;
     width: 1072px;
     background-color: #FAFAF5;
+    display: flex;
 }
