@@ -182,21 +182,8 @@ header a
     display: flex;
     align-items: center;
     justify-content: center;
+
     /* display: flex; */
-}
-.quiz_image
-{
-    border: black solid 1px;
-    height: 150px;
-    width: 174px;
-}
-.quiz_section button
-{
-    height: 60px;
-    width: 210px;
-    border: none;
-    border-radius: 1.9rem;
-    background-color: #19BF94;
 }
 .quiz
 {
@@ -204,4 +191,37 @@ header a
     width: 1072px;
     background-color: #FAFAF5;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 15px;
+}
+.quiz_image img
+{
+    /* border: black solid 1px; */
+    height: 148px;
+    width: 171px;
+}
+.take_quiz
+{
+    border: black solid 1px;
+    /* padding-right: 40px; */
+    width: 750px;
+}
+.take_quiz h3
+{
+    font-size: 32px;
+    line-height: 38px;
+    font-weight: 700;   
+}
+.take_quiz button
+{
+    height: 60px;
+    width: 210px;
+    border: none;
+    border-radius: 1.9rem;
+    background-color: #19BF94;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    color: #fff;
 }
