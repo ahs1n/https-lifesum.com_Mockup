@@ -229,5 +229,9 @@ header a
 /* Sinup Section */
 .signup_section
 {
-    
+    height: 1837px;
+    display: flex;
+    background-color: #FAFAF5;
+    clip-path: polygon(50% 0%, 100% 0, 100% 55%, 100% 82%, 79% 89%, 50% 94%, 18% 88%, 0 79%, 0% 37%, 0 0);
+
 }
