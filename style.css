@@ -226,6 +226,15 @@ header a
     color: #fff;
 }
 
+.heart_image
+{
+    /* height: 102px; */
+    /* width: 114px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px black;
+}
 /* Sinup Section */
 .signup_section
 {
@@ -239,4 +248,5 @@ header a
 {
     height: 102px;
     width: 114px;
+    border: solid 1px black;
 }
