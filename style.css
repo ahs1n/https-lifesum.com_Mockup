@@ -240,9 +240,9 @@ header a
 {
     height: 1837px;
     display: flex;
+    justify-content: center;
     background-color: #FAFAF5;
-    clip-path: polygon(50% 0%, 100% 0, 100% 55%, 100% 82%, 79% 89%, 50% 94%, 18% 88%, 0 79%, 0% 37%, 0 0);
-
+    clip-path: polygon(50% 0%, 100% 0, 100% 55%, 100% 82%, 79% 89%, 50% 94%, 18% 88%, 0 79%, 0% 37%, 0 0);   
 }
 .signup_section img
 {
