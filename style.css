@@ -240,6 +240,7 @@ header a
 {
     height: 1837px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     background-color: #FAFAF5;
     clip-path: polygon(50% 0%, 100% 0, 100% 55%, 100% 82%, 79% 89%, 50% 94%, 18% 88%, 0 79%, 0% 37%, 0 0);   
@@ -249,4 +250,9 @@ header a
     height: 134px;
     width: 190px;
     border: solid 1px black;
+}
+.star img
+{   
+    width: 20px;
+    height: 20px;
 }
