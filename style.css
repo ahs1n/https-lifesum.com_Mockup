@@ -238,18 +238,28 @@ header a
 /* Sinup Section */
 .signup_section
 {
+    border: solid 1px black;
     height: 1837px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
     background-color: #FAFAF5;
     clip-path: polygon(50% 0%, 100% 0, 100% 55%, 100% 82%, 79% 89%, 50% 94%, 18% 88%, 0 79%, 0% 37%, 0 0);   
 }
-.signup_section img
+.awards
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* border: solid 1px black; */
+    width: 690px;
+}
+
+.awards img
 {
     height: 134px;
     width: 190px;
-    border: solid 1px black;
+    /* border: solid 1px black; */
 }
 .star img
 {   
