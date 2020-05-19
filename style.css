@@ -254,12 +254,18 @@ header a
     /* border: solid 1px black; */
     width: 690px;
 }
-
 .awards img
 {
     height: 134px;
     width: 190px;
     /* border: solid 1px black; */
+}
+.rating
+{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
 }
 .star img
 {   
