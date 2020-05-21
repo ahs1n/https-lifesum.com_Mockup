@@ -262,9 +262,10 @@ header a
 }
 .rating
 {
-    width: 400px;
+    /* width: 400px; */
     display: flex;
-    flex-direction: column;
+    justify-content: space-around;
+    /* flex-direction: column; */
     border: solid 1px black;
 }
 .star img
