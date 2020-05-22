@@ -273,3 +273,17 @@ header a
     width: 20px;
     height: 20px;
 }
+
+.exp
+{
+    height: 590px;
+    width: 770px;
+    background-image: url(nathalie-small-446755bd.jpg);
+    display: flex;
+    justify-content: center;
+}
+.exp img
+{
+    height: 590px;
+    width: 653px;
+}
