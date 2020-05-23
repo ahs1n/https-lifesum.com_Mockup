@@ -279,6 +279,10 @@ header a
     height: 590px;
     width: 770px;
     background-image: url(nathalie-small-446755bd.jpg);
+    background-size: 767px 519px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 14px;
     display: flex;
     justify-content: center;
 }
@@ -286,4 +290,5 @@ header a
 {
     height: 590px;
     width: 653px;
+    border-radius: 14px;
 }
