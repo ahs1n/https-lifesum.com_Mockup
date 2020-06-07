@@ -319,7 +319,8 @@ header a
 {
     height: 64px;
     width: 330px;
-    border-radius: 50%;
+    border-radius: 1.9rem;
+    border: none;
 }
 #image1
 {
