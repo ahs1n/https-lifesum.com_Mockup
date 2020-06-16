@@ -327,3 +327,8 @@ header a
     height: 335px;
     width: 364px;
 }
+footer
+{
+    display: flex;
+    /* flex-direction: column; */
+}
