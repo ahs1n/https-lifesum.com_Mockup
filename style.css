@@ -332,3 +332,8 @@ footer
     display: flex;
     /* flex-direction: column; */
 }
+.footer1
+{
+    /* display: flex; */
+    border: black 1px solid;
+}
