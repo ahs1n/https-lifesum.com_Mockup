@@ -337,3 +337,16 @@ footer
     /* display: flex; */
     border: black 1px solid;
 }
+.footer1 ul
+{
+    list-style: none;
+}
+
+.footer2
+{
+
+}
+.footer2 ul
+{
+    list-style: none;
+}
