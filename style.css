@@ -344,9 +344,19 @@ footer
 
 .footer2
 {
+    border: black 1px solid;
 
 }
 .footer2 ul
+{
+    list-style: none;
+}
+.footer3
+{
+    border: black 1px solid;
+
+}
+.footer3 ul
 {
     list-style: none;
 }
