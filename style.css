@@ -355,6 +355,7 @@ footer a:hover
 {
     /* display: flex; */
     border: black 1px solid;
+    width: 375px;
 }
 .footer1 ul
 {
@@ -364,7 +365,7 @@ footer a:hover
 .footer2
 {
     border: black 1px solid;
-
+    width: 375px;
 }
 .footer2 ul
 {
@@ -373,7 +374,7 @@ footer a:hover
 .footer3
 {
     border: black 1px solid;
-
+    width: 375px;
 }
 .footer3 ul
 {
