@@ -152,8 +152,17 @@ header a
 .lifesum
 {
     height: 1142px;
+    /* font-size: 56px; */
+    /* text-align: center; */
     /* display: flex; */
     /* flex-wrap: wrap; */
+}
+.lifesum h1
+{
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 66px;
+    text-align: center;
 }
 .lifesum_cards
 {
