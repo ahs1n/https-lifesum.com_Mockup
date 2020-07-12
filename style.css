@@ -184,7 +184,18 @@ header a
     text-align: center;
     justify-content: center;
 }
-
+.card h3
+{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+}
+.card p
+{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;   
+}
 /* Take The Quiz */
 .quiz_section
 {
