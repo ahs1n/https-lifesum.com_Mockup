@@ -19,12 +19,12 @@ header
 .header_left
 {
     width: 500px;
-    /* border: 1px solid black; */
+    border: 1px solid black;
     display: flex;
     /* flex-direction: column; */
     justify-content: center;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 header a
 {
@@ -39,7 +39,7 @@ header a:hover
     text-decoration: underline rgb(62, 205, 140);
     /* color: rgb(65, 205, 140); */
 }
-.header_left img
+#header_left_img
 {
     color: lawngreen;
     filter: #41cd8c(100%);
