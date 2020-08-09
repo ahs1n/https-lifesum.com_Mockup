@@ -344,6 +344,7 @@ header a:hover
 }
 .heading_signup
 {
+    padding: 20px 32px;
     height: 64px;
     width: 330px;
     border-radius: 1.9rem;
