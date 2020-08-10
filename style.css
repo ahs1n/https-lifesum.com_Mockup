@@ -344,6 +344,10 @@ header a:hover
 }
 .heading_signup
 {
+    font-size: 17px;
+    line-height: 23px;
+    font-weight: 600;
+    color: white;
     padding: 20px 32px;
     height: 64px;
     width: 330px;
