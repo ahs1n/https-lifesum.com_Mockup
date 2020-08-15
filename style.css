@@ -255,12 +255,17 @@ header a:hover
 
 .heart_image
 {
-    /* height: 102px; */
-    /* width: 114px; */
+    /* height: 101px;
+    width: 134px; */
     display: flex;
     align-items: center;
     justify-content: center;
     border: solid 1px black;
+}
+.heart_image img
+{
+    height: 101px;
+    width: 134px;
 }
 /* Sinup Section */
 .signup_section
