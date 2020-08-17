@@ -267,6 +267,13 @@ header a:hover
     height: 101px;
     width: 134px;
 }
+#heartimg
+{
+    height: 60px;
+    display: flex;
+    border: 1px solid black;
+    padding-block-end: 50px;
+}
 /* Sinup Section */
 .signup_section
 {
