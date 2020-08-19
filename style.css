@@ -267,13 +267,6 @@ header a:hover
     height: 101px;
     width: 134px;
 }
-#heartimg
-{
-    height: 60px;
-    display: flex;
-    border: 1px solid black;
-    padding-block-end: 50px;
-}
 /* Sinup Section */
 .signup_section
 {
@@ -287,6 +280,8 @@ header a:hover
 }
 .awards
 {
+    padding-top: 40px;
+    padding-bottom: 40px;
     display: flex;
     align-items: center;
     justify-content: space-around;
