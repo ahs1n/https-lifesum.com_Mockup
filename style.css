@@ -312,8 +312,7 @@ header a:hover
 {
     height: 590px;
     width: 770px;
-    border-radius: 50px;
-    /* background-image: url(nike-small-4be9368a.jpg);     */
+    background-image: url(nike-small-4be9368a.jpg);    
     background-size: 767px 519px;
     background-repeat: no-repeat;
     background-position: center;
